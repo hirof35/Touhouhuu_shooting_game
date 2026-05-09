@@ -7,3 +7,5 @@ javac touhouFinal/*.java
 # 実行
 java touhouFinal.TouhouFinal
 📜 ライセンスこのプロジェクトは MITライセンス の下で公開されています。The boundary between life and death is only 3 pixels wide.💡 今後のアップデート予定[ ] 独自のスペルカード（弾幕パターン）の追加[ ] BGM/SEの再生サポート[ ] スコアランキングのローカル保存機能
+
+<img width="726" height="737" alt="スクリーンショット 2026-05-09 203037" src="https://github.com/user-attachments/assets/a542190c-03d2-49b6-b126-88259e665738" />
